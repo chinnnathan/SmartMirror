@@ -1524,3 +1524,201 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-12-28T07:51:40: Saving group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\flask"
 2016-12-28T07:51:40: End of group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\flask"
 2016-12-28T07:51:40: Deleting 0 files
+
+2016-12-28T12:37:50: Start analysis
+2016-12-28T12:37:50: [WARNING] Library was set explicitly - skipping path detection
+2016-12-28T12:37:50: IncludeModulesFromModulePath = win32com
+2016-12-28T12:37:51: Deleting 0 files
+2016-12-28T12:37:51: astropy.CallDepth = 0
+2016-12-28T12:37:51: matplotlib.CallDepth = 3
+2016-12-28T12:37:51: pandas.CallDepth = 0
+2016-12-28T12:37:51: sympy.CallDepth = 0
+2016-12-28T12:37:51: Start group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests" with 91 files
+2016-12-28T12:37:51: Parsing "requests.adapters" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\adapters.py")
+2016-12-28T12:37:51: Parsing "requests.api" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\api.py")
+2016-12-28T12:37:51: Parsing "requests.auth" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\auth.py")
+2016-12-28T12:37:51: Parsing "requests.certs" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\certs.py")
+2016-12-28T12:37:51: Parsing "requests.compat" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\compat.py")
+2016-12-28T12:37:51: Parsing "requests.cookies" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\cookies.py")
+2016-12-28T12:37:51: Parsing "requests.exceptions" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\exceptions.py")
+2016-12-28T12:37:51: Parsing "requests.hooks" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\hooks.py")
+2016-12-28T12:37:51: Parsing "requests.models" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\models.py")
+2016-12-28T12:37:51: Parsing "requests.sessions" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\sessions.py")
+2016-12-28T12:37:51: Parsing "requests.status_codes" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\status_codes.py")
+2016-12-28T12:37:51: Parsing "requests.structures" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\structures.py")
+2016-12-28T12:37:51: Parsing "requests.utils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\utils.py")
+2016-12-28T12:37:51: Parsing "requests._internal_utils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\_internal_utils.py")
+2016-12-28T12:37:51: Parsing "requests" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\__init__.py")
+2016-12-28T12:37:51: Parsing "requests.packages" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\__init__.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.big5freq" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\big5freq.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.big5prober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\big5prober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.chardetect" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\chardetect.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.chardistribution" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\chardistribution.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.charsetgroupprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\charsetgroupprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.charsetprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\charsetprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.codingstatemachine" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\codingstatemachine.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.compat" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\compat.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.constants" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\constants.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.cp949prober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\cp949prober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.escprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\escprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.escsm" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\escsm.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.eucjpprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\eucjpprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.euckrfreq" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\euckrfreq.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.euckrprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\euckrprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.euctwfreq" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\euctwfreq.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.euctwprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\euctwprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.gb2312freq" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\gb2312freq.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.gb2312prober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\gb2312prober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.hebrewprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\hebrewprober.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.jisfreq" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\jisfreq.py")
+2016-12-28T12:37:51: Parsing "requests.packages.chardet.jpcntx" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\jpcntx.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langbulgarianmodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langbulgarianmodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langcyrillicmodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langcyrillicmodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langgreekmodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langgreekmodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langhebrewmodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langhebrewmodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langhungarianmodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langhungarianmodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.langthaimodel" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\langthaimodel.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.latin1prober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\latin1prober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.mbcharsetprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\mbcharsetprober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.mbcsgroupprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\mbcsgroupprober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.mbcssm" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\mbcssm.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.sbcharsetprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\sbcharsetprober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.sbcsgroupprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\sbcsgroupprober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.sjisprober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\sjisprober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.universaldetector" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\universaldetector.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet.utf8prober" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\utf8prober.py")
+2016-12-28T12:37:52: Parsing "requests.packages.chardet" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\chardet\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.codec" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\codec.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.compat" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\compat.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.core" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\core.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.idnadata" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\idnadata.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.intranges" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\intranges.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna.uts46data" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\uts46data.py")
+2016-12-28T12:37:52: Parsing "requests.packages.idna" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\idna\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.connection" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\connection.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.connectionpool" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\connectionpool.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.exceptions" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\exceptions.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.fields" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\fields.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.filepost" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\filepost.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.poolmanager" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\poolmanager.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.request" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\request.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.response" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\response.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3._collections" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\_collections.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.contrib.appengine" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\contrib\appengine.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.contrib.ntlmpool" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\contrib\ntlmpool.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.contrib.pyopenssl" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\contrib\pyopenssl.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.contrib.socks" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\contrib\socks.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.contrib" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\contrib\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.ordered_dict" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\ordered_dict.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.six" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\six.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.backports.makefile" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\backports\makefile.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.backports" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\backports\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.packages.ssl_match_hostname" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.connection" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\connection.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.request" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\request.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.response" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\response.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.retry" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\retry.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.ssl_" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\ssl_.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.timeout" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\timeout.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util.url" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\url.py")
+2016-12-28T12:37:52: Parsing "requests.packages.urllib3.util" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests\packages\urllib3\util\__init__.py")
+2016-12-28T12:37:52: Parsing complete
+2016-12-28T12:37:52: Analyzing "requests.adapters"
+2016-12-28T12:37:52: Analyzing "requests.api"
+2016-12-28T12:37:52: Analyzing "requests.auth"
+2016-12-28T12:37:52: Analyzing "requests.certs"
+2016-12-28T12:37:52: Analyzing "requests.compat"
+2016-12-28T12:37:52: Analyzing "requests.cookies"
+2016-12-28T12:37:52: Analyzing "requests.exceptions"
+2016-12-28T12:37:52: Analyzing "requests.hooks"
+2016-12-28T12:37:52: Analyzing "requests.models"
+2016-12-28T12:37:52: Analyzing "requests.sessions"
+2016-12-28T12:37:52: Analyzing "requests.status_codes"
+2016-12-28T12:37:52: Analyzing "requests.structures"
+2016-12-28T12:37:52: Analyzing "requests.utils"
+2016-12-28T12:37:52: Analyzing "requests._internal_utils"
+2016-12-28T12:37:52: Analyzing "requests"
+2016-12-28T12:37:52: Analyzing "requests.packages"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.big5freq"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.big5prober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.chardetect"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.chardistribution"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.charsetgroupprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.charsetprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.codingstatemachine"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.compat"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.constants"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.cp949prober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.escprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.escsm"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.eucjpprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.euckrfreq"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.euckrprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.euctwfreq"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.euctwprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.gb2312freq"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.gb2312prober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.hebrewprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.jisfreq"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.jpcntx"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langbulgarianmodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langcyrillicmodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langgreekmodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langhebrewmodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langhungarianmodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.langthaimodel"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.latin1prober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.mbcharsetprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.mbcsgroupprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.mbcssm"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.sbcharsetprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.sbcsgroupprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.sjisprober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.universaldetector"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet.utf8prober"
+2016-12-28T12:37:52: Analyzing "requests.packages.chardet"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.codec"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.compat"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.core"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.idnadata"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.intranges"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna.uts46data"
+2016-12-28T12:37:52: Analyzing "requests.packages.idna"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.connection"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.connectionpool"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.exceptions"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.fields"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.filepost"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.poolmanager"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.request"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.response"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3._collections"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.contrib.appengine"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.contrib.ntlmpool"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.contrib.pyopenssl"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.contrib.socks"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.contrib"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.ordered_dict"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.six"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.backports.makefile"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.backports"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.connection"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.request"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.response"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.retry"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.ssl_"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.timeout"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util.url"
+2016-12-28T12:37:52: Analyzing "requests.packages.urllib3.util"
+2016-12-28T12:37:52: Starting analysis of 91 modules
+2016-12-28T12:38:23: Analysis complete
+2016-12-28T12:38:23: Saving group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests"
+2016-12-28T12:38:25: End of group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests"
+2016-12-28T12:38:25: Deleting 0 files

@@ -46,6 +46,7 @@
     <Content Include="requirements.txt" />
     <Content Include="SMRT\static\content\bootstrap.css" />
     <Content Include="SMRT\static\content\bootstrap.min.css" />
+    <Content Include="SMRT\static\content\Custom.css" />
     <Content Include="SMRT\static\content\site.css" />
     <Content Include="SMRT\static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="SMRT\static\fonts\glyphicons-halflings-regular.svg" />
