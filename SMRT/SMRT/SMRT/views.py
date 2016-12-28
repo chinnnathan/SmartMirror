@@ -1,5 +1,6 @@
 __version__ = "0.0.1"
 __author__ = "Nathan Chinn"
+APIKEY = "673daed241cc2bb6914f191334e0f773"
 
 """
 Routes and views for the flask application.
@@ -7,7 +8,7 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template
-import requests
+import pyowm
 import json
 from SMRT import app
 
@@ -15,7 +16,8 @@ from SMRT import app
 @app.route('/home')
 def home():
     """Renders the home page."""
-    weather = get_weather()
+    location = "Castle Rock, US"
+    weather = get_weather(location)
     return render_template(
         'index.html',
         title='Home Page',
@@ -44,23 +46,13 @@ def about():
     )
 
 
-def get_weather():
+def get_weather(location):
     """Returns info about the weather"""
-    units = "F"
-    loc = "London"
-    APIKEY = "10612e11aa4786db990fde1fc9c283ad"
-    try:
-        u = "http://api.openweathermap.org/data/2.5/weather?q={0}&units={1}"
-        u = "api.openweathermap.org/data/2.5/weather?q=London&APPID=" + APIKEY
-        r = requests.get(u)
-        # r = requests.get(u.format(loc, units))
-        j = json.loads(r.text)
-    except:
-        print("Fuck You")
-        return "Cannot Get Weather"
+    owm = pyowm.OWM(APIKEY)
 
-    temp = j['main']['temp']
-    temp_unit = 'F' 
-    conditions = j['weather'][0]['description']
+    obs = owm.weather_at_place(location)
+    w = obs.get_weather()
+    windy = w.get_wind()
+    temp = w.get_temperature('celsius')
 
-    return ( conditions, " with temperature of ", temp, u"\u00b0", " ", temp_unit)
+    return( str(temp.get("temp")) + "C\n wind speed:" + str(windy.get("speed")) )

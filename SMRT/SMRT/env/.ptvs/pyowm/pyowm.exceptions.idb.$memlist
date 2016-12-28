@@ -1,0 +1,6 @@
+unauthorized_error
+api_call_error
+not_found_error
+OWMError
+parse_response_error
+api_response_error

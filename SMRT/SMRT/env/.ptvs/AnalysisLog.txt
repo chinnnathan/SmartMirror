@@ -1722,3 +1722,135 @@ C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Micro
 2016-12-28T12:38:23: Saving group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests"
 2016-12-28T12:38:25: End of group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\requests"
 2016-12-28T12:38:25: Deleting 0 files
+
+2016-12-28T16:05:54: Start analysis
+2016-12-28T16:05:54: [WARNING] Library was set explicitly - skipping path detection
+2016-12-28T16:05:54: IncludeModulesFromModulePath = win32com
+2016-12-28T16:05:54: Deleting 0 files
+2016-12-28T16:05:54: astropy.CallDepth = 0
+2016-12-28T16:05:54: matplotlib.CallDepth = 3
+2016-12-28T16:05:54: pandas.CallDepth = 0
+2016-12-28T16:05:54: sympy.CallDepth = 0
+2016-12-28T16:05:54: Start group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm" with 58 files
+2016-12-28T16:05:54: Parsing "pyowm.constants" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\constants.py")
+2016-12-28T16:05:54: Parsing "pyowm" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\__init__.py")
+2016-12-28T16:05:54: Parsing "pyowm.abstractions.decorators" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\decorators.py")
+2016-12-28T16:05:55: Parsing "pyowm.abstractions.jsonparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\jsonparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.abstractions.linkedlist" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\linkedlist.py")
+2016-12-28T16:05:55: Parsing "pyowm.abstractions.owm" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\owm.py")
+2016-12-28T16:05:55: Parsing "pyowm.abstractions.owmcache" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\owmcache.py")
+2016-12-28T16:05:55: Parsing "pyowm.abstractions" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\abstractions\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.caches.lrucache" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\caches\lrucache.py")
+2016-12-28T16:05:55: Parsing "pyowm.caches.nullcache" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\caches\nullcache.py")
+2016-12-28T16:05:55: Parsing "pyowm.caches" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\caches\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.commons.airpollution_client" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\commons\airpollution_client.py")
+2016-12-28T16:05:55: Parsing "pyowm.commons.frontlinkedlist" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\commons\frontlinkedlist.py")
+2016-12-28T16:05:55: Parsing "pyowm.commons.uv_client" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\commons\uv_client.py")
+2016-12-28T16:05:55: Parsing "pyowm.commons.weather_client" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\commons\weather_client.py")
+2016-12-28T16:05:55: Parsing "pyowm.commons" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\commons\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.docs" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\docs\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions.api_call_error" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\api_call_error.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions.api_response_error" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\api_response_error.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions.not_found_error" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\not_found_error.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions.parse_response_error" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\parse_response_error.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions.unauthorized_error" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\unauthorized_error.py")
+2016-12-28T16:05:55: Parsing "pyowm.exceptions" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\exceptions\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.utils.temputils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\utils\temputils.py")
+2016-12-28T16:05:55: Parsing "pyowm.utils.timeformatutils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\utils\timeformatutils.py")
+2016-12-28T16:05:55: Parsing "pyowm.utils.timeutils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\utils\timeutils.py")
+2016-12-28T16:05:55: Parsing "pyowm.utils.xmlutils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\utils\xmlutils.py")
+2016-12-28T16:05:55: Parsing "pyowm.utils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\utils\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.cityidregistry" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\cityidregistry.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.coindex" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\coindex.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.coindexparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\coindexparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.configuration25" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\configuration25.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.forecast" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\forecast.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.forecaster" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\forecaster.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.forecastparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\forecastparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.historian" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\historian.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.location" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\location.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.observation" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\observation.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.observationlistparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\observationlistparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.observationparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\observationparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.owm25" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\owm25.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.ozone" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\ozone.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.ozone_parser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\ozone_parser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.station" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\station.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.stationhistory" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\stationhistory.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.stationhistoryparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\stationhistoryparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.stationlistparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\stationlistparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.stationparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\stationparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.uvindex" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\uvindex.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.uvindexparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\uvindexparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.weather" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\weather.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.weathercoderegistry" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\weathercoderegistry.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.weatherhistoryparser" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\weatherhistoryparser.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.weatherutils" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\weatherutils.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.cityids" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\cityids\__init__.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.xsd.xmlnsconfig" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\xsd\xmlnsconfig.py")
+2016-12-28T16:05:55: Parsing "pyowm.webapi25.xsd" ("D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm\webapi25\xsd\__init__.py")
+2016-12-28T16:05:55: Parsing complete
+2016-12-28T16:05:55: Analyzing "pyowm.constants"
+2016-12-28T16:05:55: Analyzing "pyowm"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions.decorators"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions.jsonparser"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions.linkedlist"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions.owm"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions.owmcache"
+2016-12-28T16:05:55: Analyzing "pyowm.abstractions"
+2016-12-28T16:05:55: Analyzing "pyowm.caches.lrucache"
+2016-12-28T16:05:55: Analyzing "pyowm.caches.nullcache"
+2016-12-28T16:05:55: Analyzing "pyowm.caches"
+2016-12-28T16:05:55: Analyzing "pyowm.commons.airpollution_client"
+2016-12-28T16:05:55: Analyzing "pyowm.commons.frontlinkedlist"
+2016-12-28T16:05:55: Analyzing "pyowm.commons.uv_client"
+2016-12-28T16:05:55: Analyzing "pyowm.commons.weather_client"
+2016-12-28T16:05:55: Analyzing "pyowm.commons"
+2016-12-28T16:05:55: Analyzing "pyowm.docs"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions.api_call_error"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions.api_response_error"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions.not_found_error"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions.parse_response_error"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions.unauthorized_error"
+2016-12-28T16:05:55: Analyzing "pyowm.exceptions"
+2016-12-28T16:05:55: Analyzing "pyowm.utils.temputils"
+2016-12-28T16:05:55: Analyzing "pyowm.utils.timeformatutils"
+2016-12-28T16:05:55: Analyzing "pyowm.utils.timeutils"
+2016-12-28T16:05:55: Analyzing "pyowm.utils.xmlutils"
+2016-12-28T16:05:55: Analyzing "pyowm.utils"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.cityidregistry"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.coindex"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.coindexparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.configuration25"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.forecast"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.forecaster"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.forecastparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.historian"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.location"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.observation"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.observationlistparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.observationparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.owm25"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.ozone"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.ozone_parser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.station"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.stationhistory"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.stationhistoryparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.stationlistparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.stationparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.uvindex"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.uvindexparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.weather"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.weathercoderegistry"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.weatherhistoryparser"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.weatherutils"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.cityids"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.xsd.xmlnsconfig"
+2016-12-28T16:05:55: Analyzing "pyowm.webapi25.xsd"
+2016-12-28T16:05:55: Starting analysis of 58 modules
+2016-12-28T16:06:06: Analysis complete
+2016-12-28T16:06:06: Saving group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm"
+2016-12-28T16:06:07: End of group "D:\College\Projects\SmartMirror\SMRT\SMRT\env\Lib\site-packages\pyowm"
+2016-12-28T16:06:07: Deleting 0 files
