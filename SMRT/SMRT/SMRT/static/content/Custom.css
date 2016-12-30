@@ -4,8 +4,9 @@
 
 
 .clock {
-  padding: 30px;
-  margin-bottom: 30px;
+  position: center;
+  padding: 3px;
+  margin-bottom: 3px;
   font-size: 65px;
   font-weight: 200;
   line-height: 2.1428571435;
@@ -16,6 +17,48 @@
 .clock h1 {
   line-height: 1;
   color: inherit;
+}
+
+.clock h2 {
+  line-height: 1;
+  color: inherit;
+
+  position: fixed;
+  bottom: 0;
+}
+
+.clock tl {
+  line-height: 1;
+  color: inherit;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.clock tright {
+  line-height: 1;
+  color: inherit;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+.clock bl {
+  line-height: 1;
+  color: inherit;
+
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.clock bright {
+  line-height: 1;
+  color: inherit;
+
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 
 .clock p {
@@ -36,6 +79,11 @@
     padding-left: 0px;
   }
   .clock h1 {
+    font-size: 63px;
+    color: #eeeeee;
+  }
+
+  .clock h2 {
     font-size: 63px;
     color: #eeeeee;
   }

@@ -18,11 +18,14 @@ def home():
     """Renders the home page."""
     location = "Castle Rock, US"
     weather = get_weather(location)
+    message = "Please say \"Smart Mirror help\" for more options"
     return render_template(
         'index.html',
         title='Home Page',
         year=datetime.now().year,
+        location = location,
         weather = weather,
+        message = message,
     )
 
 @app.route('/contact')
@@ -48,6 +51,7 @@ def about():
 
 def get_weather(location):
     """Returns info about the weather"""
+    degree = u"\N{DEGREE SIGN}"
     owm = pyowm.OWM(APIKEY)
 
     obs = owm.weather_at_place(location)
@@ -55,4 +59,4 @@ def get_weather(location):
     windy = w.get_wind()
     temp = w.get_temperature('celsius')
 
-    return( str(temp.get("temp")) + "C\n wind speed:" + str(windy.get("speed")) )
+    return( str(temp.get("temp")) + degree + "C wind speed: " + str(windy.get("speed")) )
